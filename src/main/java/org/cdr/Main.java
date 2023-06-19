@@ -26,10 +26,6 @@ public class Main {
         int firstNumber = Integer.parseInt(arg1);
         int secondNumber = Integer.parseInt(arg2);
 
-        if (secondNumber == 3) {
-            secondNumber = 4;
-        }
-
         System.out.println("Using machine learning algorithms mounted on the central blockchain to determine sum...");
         Thread.sleep(2000);
         System.out.println("Loading super-cluster computing VMs...");
