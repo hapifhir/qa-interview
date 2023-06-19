@@ -11,7 +11,7 @@ public class Main {
         System.out.println("SMILE CDR NUMBER PROCESSING ALGORITHM");
         System.out.println(LocalDate.now());
         System.out.println("Numerical processing for clinical applications.");
-        System.out.println("v1.3.8");
+        System.out.println("v1.3.9");
         System.out.println("Licensed as part of the SmileCDR super cluster ecosystem.");
         System.out.println("*************************************\n\n");
         Thread.sleep(1000);
