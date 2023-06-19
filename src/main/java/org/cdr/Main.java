@@ -14,7 +14,7 @@ public class Main {
         System.out.println("v1.3.8");
         System.out.println("Licensed as part of the SmileCDR super cluster ecosystem.");
         System.out.println("*************************************\n\n");
-        Thread.sleep(2000);
+        Thread.sleep(1000);
         try {
             arg1 = args[0];
             arg2 = args[1];
@@ -31,9 +31,9 @@ public class Main {
         }
 
         System.out.println("Using machine learning algorithms mounted on the central blockchain to determine sum...");
-        Thread.sleep(2000);
+        Thread.sleep(1000);
         System.out.println("Loading super-cluster computing VMs...");
-        Thread.sleep(2000);
+        Thread.sleep(1000);
         System.out.println("Output determined. Margin of error determined to be +/- 1%.");
 
         System.out.println("\n\n*************************************");
